@@ -1,0 +1,8 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(145, 140, 135);
+    font-size: 20px;
+    color: aqua;
+}
